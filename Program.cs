@@ -8,7 +8,7 @@ namespace DigiKala
         {
             DigikalaScraper digi = new DigikalaScraper();
             digi.Scrap();
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
